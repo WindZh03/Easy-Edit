@@ -1,0 +1,21 @@
+notebook==7.0.3
+ipywidgets
+torch==1.13.1
+torchvision==0.14.1
+diffusers==0.15.0
+transformers==4.30.0
+opencv-python
+torchmetrics==0.11.4
+accelerate
+tqdm
+gradio==3.34.0
+pydantic==1.10.0
+spacy
+# spacy==3.6.0
+dashscope
+huggingface_hub==0.25.2
+numpy==1.26.1
+git+https://github.com/facebookresearch/segment-anything.git
+alibabacloud_imagerecog20190930
+alibabacloud_tea_openapi
+alibabacloud_tea_util
