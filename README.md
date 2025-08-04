@@ -5,7 +5,7 @@
 本项目利用 LLM(Qwen) + Grounded-SAM 实现更精细的目标定位与掩码提取，一定程度上提高了 Instruct-Pix2Pix 模型针对这类编辑指令的性能。
 
 
-![预览图](./src/img1.png)
+<img src="./src/img1.png" alt="预览图" width="400" style=" height: auto;">
 
 
 ## 工作原理
@@ -90,7 +90,7 @@ easy_edit.ipynb
 ```bash
 streamlit run streamlit_edit.py
 ```
-![预览图](./src/img2.png)
+<img src="./src/img2.png" alt="预览图" width="600" height="400" style="max-width: 100%; height: auto;">
 
 ## 参考
 
